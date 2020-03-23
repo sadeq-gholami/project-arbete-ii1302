@@ -1,2 +1,1 @@
-this is for testing git
-some changes from master branchen  
+this is for testing git 
