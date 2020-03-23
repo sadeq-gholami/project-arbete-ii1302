@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 this is for testing git
 some changes from master branchen 
 some more changes from master  
+=======
+this is for testing git 
+>>>>>>> Abdi
