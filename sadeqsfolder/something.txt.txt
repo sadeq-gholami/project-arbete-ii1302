@@ -1,3 +1,8 @@
 this is for testing git
+<<<<<<< HEAD
 some changes from master branchen 
 some more changes from master  
+=======
+some changes from master branchen  
+some changes from sadeq branchen 
+>>>>>>> sadeq
