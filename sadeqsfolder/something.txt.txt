@@ -1,8 +1,14 @@
+<<<<<<< HEAD
 this is for testing git
 <<<<<<< HEAD
 some changes from master branchen 
 some more changes from master  
 =======
+<<<<<<< HEAD
 some changes from master branchen  
 some changes from sadeq branchen 
 >>>>>>> sadeq
+=======
+this is for testing git 
+>>>>>>> Abdi
+>>>>>>> 616b4874555ac48e720fab9b9e0f6082a8326c21
