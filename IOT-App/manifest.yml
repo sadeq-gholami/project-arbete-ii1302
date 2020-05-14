@@ -1,0 +1,7 @@
+applications:
+- name: IBM-Application
+  random-route: true
+  memory: 128M
+  buildpack: sdk-for-nodejs
+  services:
+  - Internet of Things Platform - Test
