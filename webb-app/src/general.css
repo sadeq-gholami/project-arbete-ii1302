@@ -1,0 +1,85 @@
+.bg-modal{
+    width:100%;
+    height: 100%;
+    background-color:rgba(0,0,0,0.7);
+    position: absolute;
+    top:0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: none;
+}
+
+.modal-pop-up{
+    width:400px;
+    height: 300px;
+    border-radius: 15px;
+    background-color: rgb(236, 236, 236);
+    text-align: center;
+    padding: 20px;
+    position: relative;
+}
+
+.btn{
+    font-size: 1rem;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    padding: 0.65em;
+    margin: 15px;
+    display: block;
+    cursor: pointer;
+    border-radius: 12px;
+}
+
+.close{
+    position: absolute;
+    top:0;
+    right: 14px;
+    font-size: 42px;
+    padding: 10px;
+    transform: rotate(45deg);
+    cursor: pointer;
+}
+.btn-input{
+    cursor: auto;
+  }
+  .tbtn{
+    background: whitesmoke;
+    cursor: pointer;
+    padding: 8px 40px;
+    border-radius: 15px;
+    color: black;
+    margin-top: 10px;
+    font-size: 13px;
+  }
+.tbtn:hover{
+  background-color: rgba(240, 241, 237, 0.89); 
+  color: black;
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+  
+.tbtn:focus{
+    background-color:rgb(221, 215, 215);
+  }
+
+  .username{
+    background: transparent;
+    border: 0;
+    opacity: .6;
+    text-align: center;
+    padding-bottom: 15px;
+  }
+  .username input{
+    background-color: black;
+    opacity: .6;
+   
+    padding: 8px 40px;
+    border: none;
+    margin: 10px 10px 20px 20px;
+    border-radius: 15px;
+    color: whitesmoke;
+  }
+  .username input::placeholder {
+    text-align: center;
+    color: rgba(255, 255, 255, 0.692);
+  }
+  
