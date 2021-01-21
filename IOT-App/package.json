@@ -14,7 +14,7 @@
 		"express": "^4.16.4",
 		"ibmiotf": "0.2.x",
 		"redux": "4.0.5",
-		"socket.io": "2.2.x"
+		"socket.io": "2.4.x"
 	},
 	"repository": {},
 	"engines": {
