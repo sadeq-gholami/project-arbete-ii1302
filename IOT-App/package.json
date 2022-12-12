@@ -11,7 +11,7 @@
 		"axios": ">=0.18.1",
 		"body-parser": "^1.19.0",
 		"cfenv": "^1.1.0",
-		"express": "^4.16.4",
+		"express": "^4.17.3",
 		"ibmiotf": "0.2.x",
 		"redux": "4.0.5",
 		"socket.io": "2.2.x"
